@@ -1,4 +1,3 @@
-# bank_tableau_dashboard
 # Stakeholder Insights and Performance Dashboard
 
 ## 🚀 Project Overview
