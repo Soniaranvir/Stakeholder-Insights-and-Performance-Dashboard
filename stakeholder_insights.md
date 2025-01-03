@@ -1,25 +1,40 @@
-This file is for showcasing the key insights and findings derived from your analysis. It should provide a high-level summary of the data-driven conclusions from the dashboard. Here's what to include:
+# Dashboard Overview
 
-📊 Stakeholder Insights and Performance Dashboard
+## Purpose
+The dashboard provides a comprehensive overview of key business metrics and insights related to stakeholders, insurers, and policy performance. It is designed to help stakeholders analyze premium trends, profitability, and asset distribution, enabling data-driven decision-making.
 
-Purpose: Summarize the purpose of the dashboard, emphasizing its role in providing a comprehensive view of business metrics related to stakeholders, insurers, and policy performance.
-🚀 Key Insights
+## Requirements
 
-Value Created by Insurers:
-Highlight which insurers created the most value and how this reflects on business performance.
-Example: "Insurer A created the highest value of $45,000, contributing significantly to profitability."
-Premium Trends Over Time:
-Insights into how premium collections have grown or fluctuated over the years.
-Example: "A steady increase in premium collections since 2014, with notable spikes in 2016 and 2018."
-Shareholding Patterns:
-Explain how the shareholding patterns are distributed (e.g., promoters, DIIs, FIIs, retail investors).
-Example: "Promoters hold 40% of total shares, indicating significant control over the business."
-Cost Ratio vs. Profitability:
-Describe trends or relationships between cost ratios and profitability metrics.
-Example: "Higher profitability is observed with a cost ratio under 20%, particularly in urban regions."
-City and Tenure Insights:
-Profitability and tenure distribution across cities and policy durations.
-Example: "Pune policies with a tenure exceeding 5 years generate 30% more profitability."
-Assets Under Management:
-Breakdown of equity vs. debt and its impact on overall value creation.
-Example: "Assets under management in equity are driving higher returns, accounting for 70% of total profitability."
+### Charts and Visualizations:
+- Compare the total value created by different insurers.
+- Display trends in premiums collected over time.
+- Showcase the distribution of shareholding patterns among stakeholders.
+- Analyze the relationship between cost ratio and profitability.
+- Visualize profitability across different cities and policy tenure durations.
+- Represent the distribution of assets under management across stakeholders.
+
+### Key Performance Indicators (KPIs):
+- Total premium collected.
+- Average age of stakeholders.
+- Total value created for insurers or stakeholders when Assets under Management is categorized as 'Equity.'
+- Highest value created by a single insurer.
+
+### Filters:
+- Filter data by city to focus on specific regions.
+- Filter data by stakeholders to analyze individual contributions.
+- Provide a range slider to filter policies based on tenure.
+- Allow filtering of data within a specific date range.
+- Enable filtering by gender for demographic insights.
+
+### Interactivity:
+- Enable charts to dynamically filter other visuals when clicked.
+- Provide tooltips on hover to display detailed information.
+- Ensure filters and KPIs update dynamically based on user selections.
+
+### Export Options:
+- **PDF Export Button**: Allow stakeholders to download the dashboard in PDF format.
+  - Capture all visible charts, KPIs, and filters in the export.
+  - Include a light watermark with the company’s branding on the PDF.
+
+### User Access:
+- Implement role-based access controls to ensure appropriate data visibility based on user roles.
