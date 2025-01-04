@@ -40,6 +40,6 @@ The dashboard provides a comprehensive overview of key business metrics and insi
   - Include a light watermark with the company’s branding on the PDF.
 
 ### 🔐 User Access  
-Implement role-based access controls** to ensure appropriate data visibility based on user roles.  
+Implement role-based access controls to ensure appropriate data visibility based on user roles.  
 
 ---
