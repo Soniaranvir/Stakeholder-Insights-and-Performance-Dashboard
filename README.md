@@ -1,5 +1,8 @@
 # Stakeholder Insights and Performance Dashboard
 
+## Live Dashboard
+https://public.tableau.com/app/profile/sonia.ranvir/viz/Yesbank_17355854184130/Dashboard1
+
 ## 🚀 Project Overview
 
 This end-to-end data analytics project showcases an interactive Tableau dashboard, designed to provide comprehensive insights into key business metrics related to stakeholders, insurers, and policy performance. The dashboard empowers stakeholders to analyze premium trends, profitability, and asset distribution, enabling data-driven decision-making and strategic planning.
